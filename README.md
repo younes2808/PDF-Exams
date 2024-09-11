@@ -8,6 +8,9 @@ This repository contains PDFs of two exams I completed as part of my coursework:
 
 ## Overview
 
+![Java Logo](https://k12.na.edu/wp-content/uploads/2016/03/Java-Programming-Language-1-1200x672.png)
+![Spring logo](https://miro.medium.com/v2/resize:fit:600/1*ljHUhFnaBissdRBe7DIo6g.png)
+
 ### Webprogrammering (DATA1700)
 
 **Grade:** A
